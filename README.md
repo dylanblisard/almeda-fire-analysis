@@ -1,4 +1,4 @@
-# AlmedaFiresAnalysis
+# Almeda Fires Analysis
 
 -   Author: Dylan Blisard
 -   Description: An analysis of the burn scar of the Almeda fire that occurred on September 8th of 2020 in the Rogue Valley of Southern Oregon.
