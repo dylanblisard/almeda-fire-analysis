@@ -5,5 +5,5 @@
 -   Objectives: Describe the aftermath of the burn and its affects on the surface and nearby lake water usage.
 -   Datasets retrieved from: [EarthExplorer (usgs.gov)](https://earthexplorer.usgs.gov/)
 -   Tools/packages: os, glob, matplotlib, numpy, rasterio, xarray
--   Methodology: Import data, create NBR, NDVI, NDWI images, create graphs of the data to extrapolate further information.
+-   Methodology: Import data, create NBR images, create graphs of the data to extrapolate further information.
 -   Output: Raster analysis of burn scars using NBR, NDVI, and NDWI techniques.
